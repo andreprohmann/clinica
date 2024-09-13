@@ -26,6 +26,12 @@ nav {
 .menu li {
     display: inline;
     margin: 0 0 0 15px;
+    text-decoration: none;
+}
+.menu li a{
+    display: inline;
+    margin: 0 0 0 15px;
+    text-decoration: none;
 }
 
 .Logo {
@@ -174,6 +180,7 @@ footer input[type="email"] {
 }
 
 footer button {
+    margin-top: 10px;
     padding: 10px 20px;
     color: white;
     border: none;
@@ -182,7 +189,7 @@ footer button {
 }
 
 footer button:hover {
-    background-color: #0056b3;
+    background-color:#333461;
 }
 
 footer p {
