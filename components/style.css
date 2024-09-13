@@ -78,24 +78,12 @@ button{
     margin-top: 20px;
     margin-left: 60px;
 }
-.text2{
-    display: flex;
-    margin-left: 30px;
-    margin-top: 30px;
-    height: 10px;
-    color: #333461;
-}
-.text2 p{
-    right: 200px;
-    position: absolute;
-    margin-top: 50px;
-}
-.text2 h2{
+.banner2{
     margin-top: 50px;
 }
 .servicos{
     display: flex;
-    margin-top: 150px;
+    margin-top: 50px;
     
 }
 .servicos div{
